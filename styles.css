@@ -1,0 +1,32 @@
+html {
+    font-family: 'Oswald';
+    margin: 0;
+
+}
+
+body {
+    font-family: 'Source Sans Pro';
+    margin:0;
+
+}
+.body {
+    text-shadow: 4px 4px 4px #aaa;
+
+}
+.header { 
+    background-color: #74b504;
+
+    height: 330px;
+    text-align: center;
+
+    line-height: 330px;
+    font-family: 'Oswald';
+
+
+
+}
+
+.header h1 {
+    margin: 0px
+
+}
